@@ -4,11 +4,11 @@
 
 // Conteúdo:
 
-   index.html
-      Open Sans
-      Bootstrap 3.3.6
-      bxSlider 4
-      jQuery 2.2.4
-   style.css
-   normalize.css
-   mediqueries.css
+// index.html
+// Open Sans
+// Bootstrap 3.3.6
+// bxSlider 4
+// jQuery 2.2.4
+// style.css
+// normalize.css - minified
+// mediqueries.css
