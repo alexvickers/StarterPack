@@ -8,6 +8,7 @@
 // Open Sans
 // Bootstrap 3.3.6
 // bxSlider 4 Rahisified
+// Lightbox
 // jQuery 2.2.4
 // style.css
 // normalize.css - minified
