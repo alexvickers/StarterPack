@@ -1,12 +1,12 @@
 # StarterPack
 
-// Pacote Básico para começar um website. Lean and Mean.
+// Pacote Básico para começar um website em Bootstrap. *Lean and Mean*.
 
-// Conteúdo:
+// O que tem aqui:
 
 // Index (header.php, index.php e footer.php)
-// Open Sans
 // Bootstrap 3.3.6
+// Open Sans - Google Fonts
 // bxSlider 4 Rahisified
 // Lightbox
 // jQuery 2.2.4
