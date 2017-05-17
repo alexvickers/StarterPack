@@ -10,7 +10,7 @@ i, em{font-style: oblique;}
 .flex{display: -webkit-box; display: -ms-flexbox; display: flex;}
 
 /*Header*/
-header{position: fixed; top: 0; right: 0; left: 0; width: 100%; z-index: 100;}
+header{position: fixed; top: 0; right: 0; left: 0; width: 100%; margin: auto; z-index: 100;}
 
 /*Home*/
 
