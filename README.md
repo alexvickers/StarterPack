@@ -1,15 +1,12 @@
 # StarterPack
 
-// Basic package for starting a PHP website using Bootstrap.
+// Basic package for starting a PHP website using Bootstrap 4.
 
 // Contents:
 
 // Index (header.php, index.php and footer.php)
-// Bootstrap 3.3.6
+// Bootstrap 4.1.3
 // Open Sans - Google Fonts
-// bxSlider 4 Rahisified
-// Lightbox
-// jQuery 2.2.4
+// Slick Slider
+// jQuery 3.3.1
 // style.css
-// normalize.css - minified
-// mediqueries.css

@@ -1,0 +1,7 @@
+/* Geral */
+* {
+		font-family: 'Open Sans', sans-serif;
+}
+a:hover, a:active {
+	text-decoration: none;
+}
